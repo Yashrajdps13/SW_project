@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "803869396086",
+    "project_id": "passport-automation-6b3b9",
+    "storage_bucket": "passport-automation-6b3b9.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:803869396086:android:b9ba49796c4983d71e2357",
+        "android_client_info": {
+          "package_name": "com.example.goatmitra"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuSrU1P7Xd9Sm6yIuyeOfIWGrktom7RGM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
